@@ -1,0 +1,427 @@
+
+*{
+  font-family: "Inter", sans-serif !important;
+  
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: #12141D;
+}
+
+body{
+    font-size: 18px;
+    line-height: 28px;
+}
+
+h2{
+    font-size: 60px;
+    line-height: 66px;
+    font-weight: 500;
+}
+
+.cus-btn{
+    background: #FFC947;
+    border: 1px solid #FFC947;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #12141D;
+}
+
+/* header section css start */
+
+header{
+    width: 100%;
+    background-color: #fff;
+    background: url(../img/bg.png) center center no-repeat;
+    background-size: cover;
+    height: 120vh; 
+    padding-top: 5px;
+}
+
+.nav-item{
+    padding-left: 35px;
+}
+
+.nav-link{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #12141D !important;
+    
+}
+
+.cp{
+    padding-right: 20px;
+}
+
+.h-cus-btn{
+    padding: 0px 16px;
+}
+
+/* banner css code start */
+
+.cus-hieght{
+    height: 100vh;
+
+}
+
+.banner h1{
+    font-size: 70px;
+    line-height: 80px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    
+}
+
+
+.banner p{
+    font-size: 17px;
+    line-height: 28px;
+    letter-spacing: -0.5px;
+    width: 95%;
+}
+
+.banner a{
+    padding: 12px 25px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #12141D;
+    text-decoration: none;
+    box-shadow: 0px 4px 60px 0px #00000014;
+
+}
+
+
+.banner a img {
+    margin-left: 80px ;
+    
+}
+
+.action-btn {
+    margin-top: 50px ;
+    margin-bottom: 20px;
+}
+
+.second-para span {
+     font-size: 14px;
+     line-height: 26px;
+     color: 3F3F46;
+     margin-right: 20px;
+}
+
+
+ /* feature section css code start */
+
+
+.feature-section{
+      width: 100%;
+      padding: 60px 0;
+}
+
+.feature-section h2 {
+     text-align: center;
+     padding: 0 260px;
+     margin-bottom: 50px;
+     font-size: 55px;
+}
+
+.feature-section .f-inner {
+     background: #F9F9FF;
+     text-align: center;
+     border-radius: 5px;
+     padding: 30px 12px 12px;
+}
+
+.feature-section .f-inner img {
+     width: 60px;
+     height: 60px;
+}
+
+.feature-section .f-inner h6 {
+    margin: 22px 0;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+
+}
+
+/* build-section css code start */
+
+.build-section{
+    width: 100%;
+    padding: 0px 0px 30px;
+}
+.build-section .build-img{
+    width: 96%;
+   
+}
+
+.build-section .bg-sh{
+    background: url(../img/ellipse-\ 475.png) center center no-repeat;
+    background-size: cover;
+}
+
+.build-section .text-inner p{
+    width: 85%;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 500;
+    margin: 25px 0px 50px;
+}
+
+.build-section .text-inner .build-btn a{
+    padding: 12px 25px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #12141D;
+    text-decoration: none;
+    box-shadow: 0px 4px 60px 0px #00000014;
+} 
+
+.ch{
+    height: 90vh;
+}
+
+/* arrange-section css code start */
+
+.arrange-section{
+    width: 100%;
+    padding: 0px 0px 60px;
+}
+
+
+.arrange-section .text-inner p{
+    width: 85%;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 500;
+    margin: 25px 0px 50px;
+}
+
+.arrange-section .text-inner .arrange-btn a{
+    padding: 12px 25px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #12141D;
+    text-decoration: none;
+    box-shadow: 0px 4px 60px 0px #00000014;
+} 
+
+.ch{
+    height: 90vh;
+}
+
+.arrange-section .arrange-img{
+    width: 85%;
+    margin-right: 0px;
+
+   
+}
+
+
+.arrange-section .bg-sh{
+    background: url(../img/schedule-meet.png) center center no-repeat;
+    background-size: cover;
+}
+
+/* communication-section css code start */
+
+.communication-section{
+    width: 100%;
+    padding: 0px 0px 60px;
+}
+.communication-section .communication-img{
+    width: 96%;
+   
+}
+
+.communication-section.bg-sh{
+    background: url(../img/ellipse-\ 475.png) center center no-repeat;
+    background-size: cover;
+}
+
+.communication-section .text-inner p{
+    width: 85%;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 500;
+    margin: 25px 0px 60px;
+}
+
+.communication-section .text-inner .communication-btn a{
+    padding: 12px 25px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #12141D;
+    text-decoration: none;
+    box-shadow: 0px 4px 60px 0px #00000014;
+} 
+
+.ch{
+    height: 90vh;
+}
+
+/* client-section css code start */
+
+.client-section{
+    width: 100%;
+    padding: 60px 0;
+    background: #F9F9FF;
+    
+}
+
+.client-section h2{
+    padding: 0 200px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.client-section .c-inner{
+    background: #fff;
+    padding: 35px 10px 20px 35px;
+    
+}
+
+.client-section .c-inner .intro{
+  display: flex;
+  align-items: ;
+    
+}
+
+.client-section .c-inner .intro .left{
+   
+ margin-right: 25px;
+}
+
+.client-section .c-inner .intro .right{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+
+}
+
+.client-section .c-inner .intro .right h6{
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+.client-section .c-inner .intro .right p{
+    font-size: 14px;
+    line-height: 24px;
+    opacity: 70%;
+
+}
+
+.client-section .c-inner .c-para{
+    width: 90%;
+}
+
+/* trusted-section css code start */
+
+.trusted-section{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 0px;
+    padding: 0px 20px;
+  
+}
+
+.trusted-section h2{
+    text-align: left;
+    
+}
+
+.trusted-section p{
+    text-align: left;
+    font-size: 20px;
+}
+
+
+.trusted-section  .logos-img{
+    width: 85%;
+    margin-right: 20px;
+}
+
+
+
+
+/* customer-section css code start */
+/* .customer-section{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding: 20px 20px;
+  
+} */
+
+/* .customer-section .container{
+    background: blue;
+    border-radius: 25px;
+    padding: 25px 20px 25px 20px;
+    font-size: 10px;
+    color: #fff;
+  
+} */
+
+/* .customer-section .container h2{
+    color: #fff;
+
+} */
+
+/* .customer-section .cus-btn {
+    padding: 12px 25px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #12141D;
+    text-decoration: none;
+    box-shadow: 0px 4px 60px 0px #00000014;
+  
+    
+}  */
+
+
+
+
+/* footer-section css code start */
+
+.footer-section{
+   padding-top: 30px;
+   padding-bottom: 40px;
+   margin-right: 0%;
+   margin-left: 0%;
+   align-items: center;
+
+}
+.footer-section .container{
+   
+   margin-right: 0px;
+   margin-left: 160px;
+}
+
+
+.footer-section h5{
+    font-weight: 700;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+} 
+
+.footer-section h6{
+   padding-top: 10px;
+   padding-bottom: 5px;
+} 
+
+
+.copyright{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
